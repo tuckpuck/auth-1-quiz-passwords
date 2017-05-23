@@ -23,7 +23,7 @@
 
 <!-- Answer here -->
 
-> If a client asked for a set of rules for appropriate passwords, what advice would you give them?
+> If a customer asked for a set of rules for appropriate passwords, what advice would you give them?
 
 <!-- Answer here -->
 
